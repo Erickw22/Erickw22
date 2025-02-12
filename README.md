@@ -1,5 +1,5 @@
 
-## Olá, Meu Nome é rick Weslley, mas podem me chamar de erick...🤙🏾
+## Olá, Meu Nome é Erick Weslley, mas podem me chamar de erick...🤙🏾
 
 ![Erickw22 GitHub stats](https://github-readme-stats.vercel.app/api?username=Erickw22&show_icons=true&theme=dark)
 
